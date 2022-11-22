@@ -1,16 +1,17 @@
-# random_number_geneartor
 
-A new Flutter project.
+## 랜덤숫자 생성기 (코드팩토리 클론코딩)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/32862869/203440058-11c69cf7-b3bf-4749-a8ae-3f2127e61674.png" width="200" height="400"/>
+  <img src="https://user-images.githubusercontent.com/32862869/203440076-fa7e738d-580c-4bf0-9f79-331bd54cb581.png" width="200" height="400"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+버튼을 누를 때마다, 지정한 숫자 이하의 랜덤 숫자 3개가 생성되는 어플 제작
+  
+- 난수 생성
+- 간단한 Navigation 및 데이터 송수신
+- Slider 위젯 사용하기
+- Functional 프로그래밍을 활용한 위젯 렌더링 및 코드정리
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
